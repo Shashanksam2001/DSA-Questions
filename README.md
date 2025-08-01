@@ -1,18 +1,12 @@
-## Getting Started
+SeptemberDay1.java -->
+Input :
+8  – Value of N
+[4,5,0,1,9,0,5,0] – Element of arr[O] to arr[N-1],While input each element is separated by newline
+Output:
+4 5 1 9 5 0 0 0
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+SeptemberDay1Q2.java--> convert number to binary and toggle it and convert to number
+Input :
+10  -> Integer
+Output :
+5    -> result- Integer
